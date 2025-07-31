@@ -1,5 +1,7 @@
 # Hi there, I'm Hieu 👋
 
+## View my portfolio <a href="hieu-nguyen.vercel.app">here</a>.
+
 ## 👨‍💻 About Me
 
 * 🔭 I’m currently working on a website to track your movies.
