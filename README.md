@@ -1,6 +1,6 @@
 # Hi there, I'm Hieu 👋
 
-## View my portfolio <a href="hieu-nguyen.vercel.app">here</a>.
+## View my portfolio <a href="https://hieu-nguyen.vercel.app">here</a>.
 
 ## 👨‍💻 About Me
 
