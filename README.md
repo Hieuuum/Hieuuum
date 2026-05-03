@@ -1,14 +1,12 @@
 # Hi there, I'm Hieu 👋
 
-## View my portfolio <a href="https://hieu-nguyen.vercel.app">here</a>.
+## View my portfolio <a href="https://mhieuuu.vercel.app">here</a>.
 
 ## 👨‍💻 About Me
 
 * 🔭 I’m currently working on a website to track your movies.
-* 👀 I'm passionate about AI/ML, Full-stack Development and reading books.
-* 🌱 I’m currently learning Full-stack Web Development.
+* 👀 I'm passionate about AI safety.
 * 📫 How to reach me: [nguyenv@union.edu](mailto:nguyenv@union.edu)
-* ⚡ Fun fact: I love sleeping!💤
 
 ---
 
