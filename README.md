@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-* 🔭 I’m currently building good AI agent harnesses.
+* 🔭 I’m currently building AI agent harnesses.
 * 👀 I'm passionate about AI safety.
 * 📫 How to reach me: [nguyenv@union.edu](mailto:nguyenv@union.edu)
 
